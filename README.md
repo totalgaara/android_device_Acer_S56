@@ -1,12 +1,13 @@
-======================================================
-FICHIERS DE CONFIGURATION POUR ACER LIQUID JADE S (S56)
-=====================================================
+==============================
+FICHIERS DE CONFIGURATION 
+POUR ACER LIQUID JADE S (S56)
+==============================
 
-Permet de build TWRP sur ce téléphone.
+Permet de build TWRP
 
-=====================================================
-					BUGS CONNUS
-=====================================================
+===========================
+	BUGS CONNUS
+===========================
 
 -> La fonction de restauration n'est pas totalement
    fonctionelle. Après celle-ci le téléphone bootloop.
